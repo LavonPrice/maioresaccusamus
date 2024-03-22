@@ -1,0 +1,19 @@
+{
+  "name": "maioresaccusamus",
+  "version": "1.0.0",
+  "description": "Multiple environment solution for Expo based React Native apps",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LavonPrice/maioresaccusamus.git"
+  },
+  "author": "AvaYost",
+  "license": "MIT",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  },
+  "bin": "./index.js",
+  "bugs": {
+    "url": "https://github.com/LavonPrice/maioresaccusamus.git/issues"
+  }
+}
